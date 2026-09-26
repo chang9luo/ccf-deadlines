@@ -1,0 +1,16 @@
+- title: HPG
+  description: High-Performance Graphics
+  sub: CG
+  rank:
+    ccf: N
+  dblp: hpg
+  confs:
+    - year: 2027
+      id: hpg2027
+      link: https://www.highperformancegraphics.org/
+      timeline:
+        - deadline: 'TBD'
+          comment: 'Co-located with EGSR 2027 (July 5-7); submission dates not announced yet'
+      timezone: UTC
+      date: July 7-9, 2027
+      place: USI Lugano, Lugano, Switzerland
